@@ -1,0 +1,6 @@
+# Force l'utilisation de LF pour tous les fichiers texte
+* text=auto eol=lf
+
+# Exceptions pour certains types de fichiers
+*.bat text eol=crlf
+*.cmd text eol=crlf
